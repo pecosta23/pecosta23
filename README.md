@@ -1,6 +1,7 @@
 # Olá! Eu sou o Pedro Costa 👋
 
-Sou um desenvolvedor frontend apaixonado por criar interfaces intuitivas e funcionais. Atualmente, estou trabalhando em projetos que envolvem **React**, **Firebase** e desenvolvimento mobile. 🚀
+Sou um desenvolvedor apaixonado por criar de tudo um pouco. Atualmente, estou trabalhando em projetos que envolvem **Kotlin**, **Firebase** e desenvolvimento mobile.
+Gosto de Java também kkkk. Faço uma pós em engenharia de aprendizado de máquina, utilizando bastante Python para tratar dados e criar árvores. 🚀
 
 ### 📫 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-costa-2802-pcm/)
