@@ -18,4 +18,4 @@ Gosto de Java também kkkk. Faço uma pós em engenharia de aprendizado de máqu
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pecosta23&layout=compact&theme=dracula)
 
 ---
-💡 Sempre explorando novas tecnologias e aprimorando minhas habilidades! 😃
+💡 Sempre explorando novas tecnologias e aprimorando minhas habilidades! :)
