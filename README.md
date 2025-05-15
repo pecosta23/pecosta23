@@ -3,10 +3,10 @@
 Sou um desenvolvedor apaixonado por criar de tudo um pouco. Atualmente, estou trabalhando em projetos que envolvem, desenvolvimento mobile e projetos de FastAPI.
 Gosto de Java. Faço pós em engenharia de aprendizado de máquina, utilizando bastante Python para tratar dados e criar árvores. 🚀
 
-### 📫 Onde me encontrar:
+### Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-costa-2802-pcm/)
 
-### 🔥 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
@@ -14,8 +14,8 @@ Gosto de Java. Faço pós em engenharia de aprendizado de máquina, utilizando b
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pecosta23&layout=compact&theme=dracula)
 
 ---
-💡 Sempre explorando novas tecnologias e aprimorando minhas habilidades! :)
+Sempre explorando novas tecnologias e aprimorando minhas habilidades! :)
