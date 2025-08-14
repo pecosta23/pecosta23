@@ -1,7 +1,7 @@
-# Pedro aqui! 👋
+# Pedro aqui! 🐝
 
-Sou um desenvolvedor apaixonado por criar de tudo um pouco. Atualmente, estou trabalhando em projetos que envolvem: desenvolvimento mobile e projetos de FastAPI.
-Gosto de Java. Faço pós em engenharia de aprendizado de máquina, utilizando bastante Python para tratar dados e criar árvores.
+Sou um desenvolvedor apaixonado por criar de tudo um pouco. Atualmente, estou trabalhando em projetos que envolvem: desenvolvimento web com React, desenvolvimento mobile em Kotlin e projetos de FastAPI.
+Gosto bastante de Java. Faço pós em engenharia de aprendizado de máquina, utilizando bastante Python para tratar dados, criar árvores e modelos de ML.
 
 ### Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-costa-2802-pcm/)
