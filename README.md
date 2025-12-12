@@ -6,7 +6,7 @@ Gosto bastante de Java. Estou aprendendo Rust. Faço pós em engenharia de apren
 
 ### Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-costa-2802-pcm/)
-[!Credly](https://img.shields.io/badge/Credly-green?style=for-the-badge&logo=linkedin)](https://www.credly.com/users/pedro-costa.c1c2ac1b/badges#credly)
+[![Credly](https://img.shields.io/badge/Credly-green?style=for-the-badge&logo=linkedin)](https://www.credly.com/users/pedro-costa.c1c2ac1b/badges#credly)
 
 ### Tecnologias e Ferramentas
 
