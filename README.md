@@ -20,4 +20,4 @@ Gosto bastante de Java. Estou aprendendo Rust. Faço pós em engenharia de apren
 
 
 ---
-Sempre explorando novas tecnologias e aprimorando minhas habilidades! :)
+Sempre explorando novas tecnologias e aprimorando minhas habilidades!
