@@ -1,6 +1,6 @@
-# Pedro aqui! 🐝
+# Pedro aqui! 📬
 
-Atualmente, estou trabalhando em projetos que envolvem: desenvolvimento web com Typescript, React + Vite, desenvolvimento mobile em Kotlin e projetos de Python com FastAPI.
+Atualmente, estou trabalhando em projetos que envolvem: desenvolvimento web com Typescript, React + Vite, desenvolvimento mobile em Kotlin e projetos de Python com FastAPI para Machine Learning.
 
 Gosto bastante de Java. Estou aprendendo Rust. Faço pós em engenharia de aprendizado de máquina e graduando em engenharia de software, tenho familiariade com treinamentos de modelos de ML em geral.
 
@@ -12,6 +12,7 @@ Gosto bastante de Java. Estou aprendendo Rust. Faço pós em engenharia de apren
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FCA040?style=for-the-badge&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-AB372F?style=for-the-badge&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
