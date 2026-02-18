@@ -2,7 +2,7 @@
 
 Atualmente, estou trabalhando em projetos que envolvem: desenvolvimento web com Typescript, React + Vite, desenvolvimento mobile em Kotlin e projetos de Python com FastAPI.
 
-Gosto bastante de Java. Estou aprendendo Rust. Faço pós em engenharia de aprendizado de máquina, tenho familiariade com treinamentos de modelos de ML em geral.
+Gosto bastante de Java. Estou aprendendo Rust. Faço pós em engenharia de aprendizado de máquina e graduando em engenharia de software, tenho familiariade com treinamentos de modelos de ML em geral.
 
 ### Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-costa-2802-pcm/)
